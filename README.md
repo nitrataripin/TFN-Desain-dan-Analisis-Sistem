@@ -5,7 +5,7 @@ A repo to store files related to course [Desain & Analisis Sistem](https://teach
 ### .... related to the course ###
 
 #### (Personal) NOTES ####
-1. [Catatan Kuliah Desain & Analisis Sistem (Bagian 1)](https://nitrataripin.medium.com/catatan-kuliah-desain-analisis-sistem-bagian-1-18ca7d3a67f5)
+1. [Catatan Kuliah Desain & Analisis Sistem (Bagian 1)] via Medium
 
 
 #### Codes ####
